@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+nav a{
+    color: red;
+}
+
+
+article h2{
+    color:blue;
+}
